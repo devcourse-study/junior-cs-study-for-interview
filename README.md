@@ -12,8 +12,8 @@
 ### 진행방식
 
 - 현재 repo를 개인 깃헙으로 fork 뜹니다.
-- [일정표](https://github.com/devcourse-study/junior-cs-study-for-interview/blob/main/etc/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%A7%84%EB%8F%84%ED%91%9C.md)를 확인하고, 다음 스터디 일자에 맞는 진도를 공부합니다. 
-- 다음 스터디 시작 전까지 본인 깃허브 닉네임에 해당하는 branch 로 PR을 올립니다. 
+- [일정표](https://github.com/devcourse-study/junior-cs-study-for-interview/blob/main/etc/%EC%8A%A4%ED%84%B0%EB%94%94%20%EC%A7%84%EB%8F%84%ED%91%9C.md)를 확인하고, 다음 스터디 일자에 맞는 진도를 공부합니다.
+- 면접 질문에 대한 답안을 작성하고,다음 스터디 시작 전까지 본인 깃허브 닉네임에 해당하는 branch 로 PR을 올립니다. 
   - **PR을 올리지 않았을 경우 벌칙 스택이 하나 증가합니다.**
   - 벌칙 스택이 3개 되었을 경우 다른 스터디원들에게 커피 쿠폰을 돌립니다. (벌칙 스택은 초기화됩니다.)  
 - 모의면접
