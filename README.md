@@ -34,16 +34,19 @@
   - 데이터 타입
     - Wrapper Class
       - Boxing vs Unboxing
-    - Call by Reference vs Call by Value
-  - 접근제어자 
+    - Call by Reference, Call by Value
+  - 접근제어자
   - 클래스 vs 객체 vs 인스턴스
-  - static 멤버 vs non static 멤버
-    - main 메서드가 static 인 이유
-  - final 키워드 (final/finally/finalize)
+  - static 키워드
+    - static 멤버 vs non static 멤버
+    - static class vs static method
+      - main 메서드가 static 인 이유
+    - static 컴파일 과정
   - 오버로딩과 오버라이딩
   - 인터페이스와 추상 클래스
-  - Error, Exception
+  - Exception
     - Checked Exception vs Unchecked Exception
+  - final 키워드 (final/finally/finalize)
   - 제네릭
   - 리플렉션
   - 직렬화 vs 역직렬화
