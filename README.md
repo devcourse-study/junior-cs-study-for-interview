@@ -51,7 +51,7 @@
   - 제네릭
   - 리플렉션
   - 직렬화 vs 역직렬화
-  - Synchronized
+  - Synchronized & Thread Safe
     - Sync vs Async
     - Thread Local
   - 어노테이션
@@ -69,6 +69,11 @@
     - String vs StringBuilder vs StringBuffer
     - `new` vs `""`
   - Map / Set / List 와 각각의 구현체 
+    - List 
+      - ArrayList vs LinkedList
+    - Map 
+      - HashTable vs HashMap vs LinkedHashMap vs TreeMap
+      - HashMap vs ConcurrentHashMap
 - **03 JVM / GC**
   - JDK, JRE, JVM 의 차이
   - 자바 컴파일 과정
