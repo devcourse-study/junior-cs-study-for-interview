@@ -53,7 +53,6 @@
   - 직렬화 vs 역직렬화
   - Synchronized & Thread Safe
     - Sync vs Async
-    - Thread Local
   - 어노테이션
   - Java 8
     - Stream
