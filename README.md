@@ -57,7 +57,7 @@
   - Java 8
     - Stream
     - Lambda
-      - 
+      - 익명 클래스와 람다
     - Optional
 - **02 Java 컬렉션**
   - 컬렉션 프레임워크
