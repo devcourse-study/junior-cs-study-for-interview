@@ -44,18 +44,23 @@
     - static 컴파일 과정
   - 오버로딩과 오버라이딩
   - 인터페이스와 추상 클래스
+    - 클래스의 단일 상속과 인터페이스의 다중 구현
   - Exception
     - Checked Exception vs Unchecked Exception
   - final 키워드 (final/finally/finalize)
   - 제네릭
   - 리플렉션
   - 직렬화 vs 역직렬화
+  - Synchronized & Thread Safe
+    - Sync vs Async
+  - 어노테이션
   - Java 8
     - Stream
     - Lambda
     - Optional
-  - 어노테이션
 - **02 Java 컬렉션**
+  - 컬렉션 프레임워크
+    - 프레임워크 
   - equals() & hashcode()
     - `==` vs `equals()`
     - hashcode
@@ -63,14 +68,25 @@
     - String vs StringBuilder vs StringBuffer
     - `new` vs `""`
   - Map / Set / List 와 각각의 구현체 
-  - Synchronized
-    - Sync vs Async
-- **03 JVM / GC** 
-  - 클래스 로더
-  - 동적로딩 
+    - List 
+      - ArrayList vs LinkedList
+    - Map 
+      - HashTable vs HashMap vs LinkedHashMap vs TreeMap
+      - HashMap vs ConcurrentHashMap
+- **03 JVM / GC**
+  - JDK, JRE, JVM 의 차이
+  - 자바 컴파일 과정
+  - JVM 구조
+    - JVM 구성 요소
+    - JVM 실행 과정
+    - JVM 메모리 구조
+  - 클래스 로더와 동적로딩
+  - 가비지 컬렉션 동작원리
+    - Java9 default GC
 - **04 객체 지향 프로그래밍**
-  - 객체지향
-  - 객체지향 프로그래밍 vs 절차지향 프로그래밍
+  - 객체 
+  - 객체지향 프로그래밍   
+    - 객체지향 프로그래밍 vs 절차지향 프로그래밍
   - OOP 5대 원칙 SOLID
   - OOP 4가지 특징
 
