@@ -75,6 +75,8 @@
   - Map
     - HashTable vs HashMap vs LinkedHashMap vs TreeMap
     - HashMap vs ConcurrentHashMap
+  - Set
+    - List vs Set
 
 ### 1-3. JVM / GC
 - JDK, JRE, JVM 의 차이
