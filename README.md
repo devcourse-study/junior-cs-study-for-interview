@@ -98,21 +98,23 @@
 
 > 추가 예정
 
-### 2. Spring & JPA
+### 2. Database
 
 > 추가 예정
 
-### 3. Network
+### 3. 자료구조
 
 > 추가 예정
 
-### 4. Database
+### 4. OS
 
 > 추가 예정
 
-### 5. OS
+### 5. Network
 
-> 추가 예정
+> 추가 예정 
+
+### 6. Spring, JPA
 
 ---
 **참고**
