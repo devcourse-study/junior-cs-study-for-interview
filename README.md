@@ -96,12 +96,35 @@
 - OOP 5대 원칙 SOLID
 - OOP 4가지 특징
 
-> 추가 예정
+<br>
 
 ### 2. Database
 
-
-> 추가 예정
+- 관계형 데이터베이스
+  - 데이터베이스를 사용하는 이유 
+  - RDB의 개념과 장단점
+  - 키의 종류
+- 인덱스
+  - 인덱스 개념, 필요성
+  - 인덱스를 어느 column에 사용할까
+- 인덱스의 자료구조
+  - `hash table`, `b-tree`, `b+tree` 
+  - 인덱스가 `hash table` 이 아닌 `b+tree`로 구현된 이유
+- Join
+  - left outer join vs inner join
+- 정규화
+  - 정규형의 종류
+  - 이상 현상
+- View
+- 트랜잭션
+  - 트랜잭션 개념
+  - ACID
+  - Lock
+- 트랜잭션 격리수준
+  - DeadLock
+- NoSQL
+  - NoSQL 개념
+  - RDB vs NoSQL
 
 ### 3. 자료구조
 
