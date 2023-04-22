@@ -107,7 +107,8 @@
 - 인덱스
   - 인덱스 개념, 필요성
   - 인덱스를 어느 column에 사용할까
-  - 인덱스의 자료구조
+- 인덱스의 자료구조
+  - `hash table`, `b-tree`, `b+tree` 
   - 인덱스가 `hash table` 이 아닌 `b+tree`로 구현된 이유
 - Join
   - left outer join vs inner join
