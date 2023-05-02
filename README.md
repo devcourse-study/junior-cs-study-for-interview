@@ -126,19 +126,44 @@
   - NoSQL 개념
   - RDB vs NoSQL
 
-### 3. 자료구조
+### 3. OS
+
+- Process & Thread
+  - Process 개념
+    - Process 메모리 영역
+    - Process State: Running, Ready, Wait
+  - Multi Process
+    - PCB(Process Control Block) 
+    - Context, Context Switch
+  - Thread 개념
+    - Process Vs. Thread
+  - Multi Thread
+  - Multi Process Vs. Multi Thread
+  - IPC(Inter Process Communication)
+    - 공유 메모리와 메시지 전달 모델
+  - Multi Process/Thread 환경의 동기화 문제해결
+    - Mutex, Semaphore
+  - Deadlock
+- Memory
+  - Paging
+    - Memory Fragmentation
+  - Segmentation
+    - Paging Vs. Segmentation
+    - Paged Segmentation
+  - 가상 메모리
+    - Demand Paging
+    - 페이지 교체 알고리즘(replacement algorithm)
+    - LRU, LFU
+
+### 4. Spring & JPA
 
 > 추가 예정
 
-### 4. OS
-
-> 추가 예정
-
-### 5. Network
+### 5. Data Structure
 
 > 추가 예정 
 
-### 6. Spring, JPA
+### 6. Network
 
 ---
 **참고**
