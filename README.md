@@ -165,7 +165,7 @@
 - DI(Dependency Injection)
   - 생성자 주입을 지향하는 이유
 - IoC(Inversion of Control)
-- 스프링 컨테이너
+  - 스프링 컨테이너
   - 싱글톤 컨테이너
 - 스프링 빈
   - 빈 생명주기 콜백
@@ -173,6 +173,7 @@
 - 컴포넌트 스캔
   - `@ComponentScan`, `@Component`
   - `@Controller`, `@Service`, `@Repository`
+- POJO
 
 ### Spring MVC
 
@@ -184,8 +185,8 @@
   - 요청 흐름
 - RequestMapping Handler Adapter 
   - 구조 이해
+- 스프링 MVC의 어노테이션
 - 스프링 예외처리와 `@ExceptionHandler`
-- 필터와 인터셉터
 
 ### Spring 심화
 
@@ -193,6 +194,7 @@
   - JDK Dynamic Proxy
   - CGLIB
 - ThreadLocal
+- 필터와 인터셉터
 
 ### JPA 
 
