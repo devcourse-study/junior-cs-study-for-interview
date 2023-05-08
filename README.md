@@ -165,7 +165,7 @@
 - DI(Dependency Injection)
   - 생성자 주입을 지향하는 이유
 - IoC(Inversion of Control)
-- 스프링 컨테이너
+  - 스프링 컨테이너
   - 싱글톤 컨테이너
 - 스프링 빈
   - 빈 생명주기 콜백
