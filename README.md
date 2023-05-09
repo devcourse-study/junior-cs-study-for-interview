@@ -3,9 +3,9 @@
 
 ### 스터디원
 
-|               ![](https://github.com/preferKim.png?size=80)               | ![](https://github.com/Tnfls99.png?size=80) |                             ![](https://github.com/hwankim123.png?size=80)                             | ![](https://github.com/dlxortmd987.png?size=80) |
-|:--------------------------------------------------------------------------:|:-------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:-----------------------------------------------:|
-|                    [김선호](https://github.com/preferkim)                     |      [이수린](https://github.com/Tnfls99)      |                                  [김 환](https://github.com/hwankim123)                                  |                     [이택승](https://github.com/dlxortmd987)                     |
+| ![](https://github.com/haero77.png?size=80) | ![](https://github.com/Tnfls99.png?size=80) |                             ![](https://github.com/hwankim123.png?size=80)                             | ![](https://github.com/dlxortmd987.png?size=80) |
+|:-------------------------------------------:|:-------------------------------------------:|:------------------------------------------------------------------------------------------------------:|:-----------------------------------------------:|
+|     [김선호](https://github.com/preferkim)     |      [이수린](https://github.com/Tnfls99)      |                                  [김 환](https://github.com/hwankim123)                                  |                     [이택승](https://github.com/dlxortmd987)                     |
 
 <br>
 
@@ -29,7 +29,7 @@
 
 ## 1. Java
 
-### 1-1. Java 기초
+### Java 기초
 - Java 의 장단점
 - 데이터 타입
   - Wrapper Class
@@ -60,7 +60,7 @@
     - 익명 함수와 람다
   - Optional
 
-### 1-2. Java 컬렉션
+### Java 컬렉션
 - 컬렉션 프레임워크
   - 프레임워크
 - equals() & hashcode()
@@ -78,7 +78,7 @@
   - Set
     - List vs Set
 
-### 1-3. JVM / GC
+### JVM / GC
 - JDK, JRE, JVM 의 차이
 - 자바 컴파일 과정
 - JVM 구조
@@ -89,7 +89,7 @@
 - 가비지 컬렉션 동작원리
   - Java9 default GC
 
-### 1-4. 객체 지향 프로그래밍
+### 객체 지향 프로그래밍
 - 객체
 - 객체지향 프로그래밍
   - 객체지향 프로그래밍 vs 절차지향 프로그래밍
@@ -156,6 +156,50 @@
     - LRU, LFU
 
 ### 4. Spring & JPA
+
+### Spring Core
+
+- Spring Framework
+  - Framework
+  - `Spring` Vs. `Spring Boot` Vs. `Spring MVC`
+- DI(Dependency Injection)
+  - 생성자 주입을 지향하는 이유
+- IoC(Inversion of Control)
+  - 스프링 컨테이너
+  - 싱글톤 컨테이너
+- 스프링 빈
+  - 빈 생명주기 콜백
+  - 빈 스코프
+- 컴포넌트 스캔
+  - `@ComponentScan`, `@Component`
+  - `@Controller`, `@Service`, `@Repository`
+- POJO
+
+### Spring MVC
+
+- WAS, WS
+  - Tomcat
+- MVC 패턴
+- Servlet
+- Dispatcher Servlet
+  - 요청 흐름
+- RequestMapping Handler Adapter 
+  - 구조 이해
+- 스프링 MVC의 어노테이션
+- 스프링 예외처리와 `@ExceptionHandler`
+
+### Spring 심화
+
+- AOP
+  - JDK Dynamic Proxy
+  - CGLIB
+- ThreadLocal
+- 필터와 인터셉터
+
+### JPA 
+
+- `@Trasactional`
+  - 동작원리
 
 > 추가 예정
 
