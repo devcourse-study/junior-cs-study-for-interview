@@ -198,8 +198,26 @@
 
 ### JPA 
 
+- JDBC, Spring JDBC
+  - Connection Pool
+  - DataSource
+- Sql Mapper(MyBatis)
+- JPA, Hibernate
+  - ORM
+- 영속성 컨텍스트
+  - OSIV
+- 즉시/지연 로딩
+  - 프록시
+  - N + 1 문제
+- 단뱡향/양방향 매핑
+  - Join vs Fetch Join
+  - 고아객체
+- 상속관계 매핑
+  - @MappedSuperclass
+  - 임베디드 타입
 - `@Trasactional`
   - 동작원리
+
 
 > 추가 예정
 
