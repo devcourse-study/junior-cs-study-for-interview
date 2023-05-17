@@ -196,6 +196,19 @@
 - ThreadLocal
 - 필터와 인터셉터
 
+### Spring Test
+
+- DDD, TDD
+  - 테스트 커버리지 (JACOCO)
+- 단위, 통합, 인수 테스트
+  - SpringBoot 계층별 테스트 방법
+- Junit4 vs Junit5
+- Test Double
+  - Stub
+  - Mock
+  - Fake
+
+
 ### JPA 
 
 - JDBC, Spring JDBC
@@ -217,9 +230,6 @@
   - 임베디드 타입
 - `@Trasactional`
   - 동작원리
-
-
-> 추가 예정
 
 ### 5. Data Structure
 
