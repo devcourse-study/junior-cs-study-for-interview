@@ -196,12 +196,39 @@
 - ThreadLocal
 - 필터와 인터셉터
 
+### Spring Test
+
+- DDD, TDD
+  - 테스트 커버리지 (JACOCO)
+- 단위, 통합, 인수 테스트
+  - SpringBoot 계층별 테스트 방법
+- Junit4 vs Junit5
+- Test Double
+  - Stub
+  - Mock
+  - Fake
+
 ### JPA 
 
+- JDBC, Spring JDBC
+  - Connection Pool
+  - DataSource
+- Sql Mapper(MyBatis)
+- JPA, Hibernate
+  - ORM
+- 영속성 컨텍스트
+  - OSIV
+- 즉시/지연 로딩
+  - 프록시
+  - N + 1 문제
+- 단뱡향/양방향 매핑
+  - Join vs Fetch Join
+  - 고아객체
+- 상속관계 매핑
+  - @MappedSuperclass
+  - 임베디드 타입
 - `@Trasactional`
   - 동작원리
-
-> 추가 예정
 
 ### 5. Data Structure
 
