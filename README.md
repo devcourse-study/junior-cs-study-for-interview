@@ -208,7 +208,6 @@
   - Mock
   - Fake
 
-
 ### JPA 
 
 - JDBC, Spring JDBC
