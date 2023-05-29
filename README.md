@@ -230,11 +230,29 @@
 - `@Trasactional`
   - 동작원리
 
-### 5. Data Structure
+### 5. Network
+
+- OSI 7계층과 TCP/IP 4계층
+- TCP/UDP
+  - 3way-handshake, 4way-handshake
+  - 흐름제어, 혼잡제어, 오류제어
+- HTTP
+  - HTTP status code
+  - HTTP METHOD
+- HTTP 1.1 VS HTTP 2.0
+- HTTPS
+- REST API
+- CORS
+- COOKIE & SESSION
+- JWT
+- DNS
+- Blocking/Nonblocking&Synchronous/Asynchronous
+- 웹 통신의 흐름
+  - www.example.com을 입력했을 때?
+
+### 6. Data Structure
 
 > 추가 예정 
-
-### 6. Network
 
 ---
 **참고**
