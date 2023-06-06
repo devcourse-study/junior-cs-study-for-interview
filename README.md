@@ -252,7 +252,23 @@
 
 ### 6. Data Structure
 
-> 추가 예정 
+- 선형 자료구조
+  - Array
+  - List
+  - HashTable
+  - Queue
+  - Stack
+- 비선형 자료구조
+  - Graph
+    - DFS, BFS
+  - Heap
+  - Tree
+    - Binary Tree
+    - Full Binary Tree
+    - Complete Binary Tree
+    - Binary Search Tree
+    - AVL Tree
+    - Red-Black Tree
 
 ---
 **참고**
